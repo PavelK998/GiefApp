@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406665155727",
+    "firebase_url": "https://giefptapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "giefptapp",
+    "storage_bucket": "giefptapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406665155727:android:78998230c0a5ee9a420cfa",
+        "android_client_info": {
+          "package_name": "ru.pakarp.GiefptAbitur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406665155727-un4koqhspt39sqp95m6jem086rls75cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.pakarp.GiefptAbitur",
+            "certificate_hash": "2e439068fc9cd51a789edd68bfbf0f2ac954acca"
+          }
+        },
+        {
+          "client_id": "406665155727-q2gnsugdteuvl1jjc8etsgdflnllpbi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC35GtDmlzmoiOuk0HGjdwjmZyEnt7PQNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406665155727-q2gnsugdteuvl1jjc8etsgdflnllpbi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
